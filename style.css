@@ -120,7 +120,7 @@ footer>a{
 @media(max-width: 440px){
 .first-contenar{
 	background-image: url(header.jpg);
-	height: 30vh;
+	height: 40vh;
 	width: 100%;
 	margin-top: 40px;
     background-size: cover;
@@ -142,13 +142,13 @@ footer>a{
    color: #070d2e;
 }
 .second-contenar{
-	margin-top: 20px;
-	padding: 20px;
+	margin-top: 10px;
+	padding: 10px;
 	display: block;
 }
 .third-contenar{
-	margin-top: 20px;
-	padding: 20px;
+	margin-top: 10px;
+	padding: 10px;
 	display: block;
 }
 .second-contenar>h1,.third-contenar>h1, .fourth-contenar>h1{
@@ -157,8 +157,8 @@ footer>a{
 }
 
 .movie-contenar{
-	height: 460px;
-	width: 360px;
+	height: 440px;
+	width: 280px;
 	padding: 10px;
 	margin: 10px;
 	display: inline-block;
@@ -167,8 +167,8 @@ footer>a{
 	text-align: center;
 }
 .movie-img{
-	height: 280px;
-	width: 240px;
+	height: 240px;
+	width: 220px;
 }
 .fourth-contenar{
 	margin-top: 100px;
