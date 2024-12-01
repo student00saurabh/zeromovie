@@ -120,7 +120,7 @@ footer>a{
 @media(max-width: 440px){
 .first-contenar{
 	background-image: url(header.jpg);
-	height: 40vh;
+	height: 30vh;
 	width: 100%;
 	margin-top: 40px;
     background-size: cover;
@@ -132,7 +132,7 @@ footer>a{
 	color: #e4e7fb;
 	border-radius: 50%;
 	position: relative;
-	top: 60%;
+	top: 55%;
 	left: 44%;
 	border: none;
 	transition-duration: 0.8s;
